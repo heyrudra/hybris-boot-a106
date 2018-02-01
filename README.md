@@ -40,3 +40,4 @@ Wait for your host computer to pick up DHCP lease from usb network device:
 
     $ telnet 192.168.2.15
 
+# hybris-boot-a106
